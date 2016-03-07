@@ -1,0 +1,96 @@
+.main-chart {
+    padding-top: 20px;
+}
+.mtbox {
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.box0:hover .box1 {
+	border-bottom: 1px solid #ffffff;
+}
+
+.box0 p {
+	text-align: center;
+	font-size: 12px;
+	color: #f2f2f2;
+}
+
+.box0:hover p {
+	color: #ff865c;
+}
+
+.box0:hover {
+	background: #ffffff;
+	box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.box1 {
+    padding: 15px;
+    text-align: center;
+    color: #989898;
+    border-bottom: 1px solid #989898;
+}
+.box1 span {
+    font-size: 50px;
+}
+
+.box1 h3 {
+    text-align: center;
+}
+
+.ds {
+    background: #ffffff;
+    padding-top: 20px;
+}
+.ds h3 {
+    color: #ffffff;
+    font-size: 16px;
+    padding: 0 10px;
+    line-height: 60px;
+    height: 60px;
+    margin: 0;
+    background: #9C4C9D;
+    text-align: center;
+}
+.ds .desc {
+    border-bottom: 1px solid #eaeaea;
+    display: inline-block;
+    padding: 15px 0;
+    width: 100%;
+}
+.ds .thumb {
+    width: 30px;
+    margin: 0 10px 0 20px;
+    display: block;
+    float: left;
+}
+.bg-theme {
+    background-color: #68dff0 !important;
+}
+.ds i {
+    font-size: 12px;
+    line-height: 16px;
+}
+.ds .details {
+    width: 170px;
+    float: left;
+}
+.ds > .desc p {
+    font-size: 11px;
+}
+.ds p > muted {
+    font-size: 9px;
+    text-transform: uppercase;
+    font-style: italic;
+    color: #666666;
+}
+.ds a {
+    color: #68dff0;
+}
+
+.mb {
+    margin-bottom: 25px;
+}
+.buttons a{
+	    margin-right: 8px;
+}

@@ -1,0 +1,18 @@
+@media (max-width: 767px){
+	
+	.sidebar-closed #main-content {
+    margin-left: 0px ;
+}
+#main-content {
+    margin-left: 0px;
+}
+.form-login{
+	background-color: white;
+     padding: 0.5% 2.5% 3% 2.5% !important;
+    margin: 5% 14% !important;
+    border-radius: 5px;
+    position: relative;
+    }
+}
+	
+@media (min-width: 768px) and (max-width: 991px){}
